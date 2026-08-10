@@ -2,10 +2,12 @@
 
 Roz thoda thoda SQL practice 🚀
 
-## Easy
+## Easy 
 
-- Question name - <Revising the Select Query I>
-  Link - <[link yahan](https://www.hackerrank.com/challenges/revising-the-select-query/problem)>
+| Question Name | Link |
+|---|---|
+| <Revising the Select Query I | [HackerRank](https://www.hackerrank.com/challenges/revising-the-select-query/problem) |
+
 
 ## Medium
 
