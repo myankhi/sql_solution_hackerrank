@@ -8,9 +8,7 @@ Roz thoda thoda SQL practice 🚀
 |---|---|
 |Revising the Select Query I | [HackerRank](https://www.hackerrank.com/challenges/revising-the-select-query/problem) |
 |Revising the Select Query II | [HackerRank](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) |
-
 |Select All | [HackerRank](https://www.hackerrank.com/challenges/select-all-sql/problem) |
-
 |Select By ID | [HackerRank](https://www.hackerrank.com/challenges/select-by-id/problem) |
 
 
