@@ -7,6 +7,7 @@ Roz thoda thoda SQL practice 🚀
 |Question Name | Link |
 |---|---|
 |Revising the Select Query I | [HackerRank](https://www.hackerrank.com/challenges/revising-the-select-query/problem) |
+|---|------|
 
 
 ## Medium
